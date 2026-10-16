@@ -1,0 +1,15 @@
+form{
+    background-color: blanchedalmond;
+}
+
+legend{
+    border-color:blueviolet;
+    border-radius: 15px;
+    font-family: 'courier new', courier, monospace;
+    font-size: small;
+}
+
+input [type="text"]{
+    background: rgb(255, 0, 0);
+    color:white
+}

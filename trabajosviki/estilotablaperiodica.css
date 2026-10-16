@@ -1,0 +1,12 @@
+table{
+    background: rgb(85, 172, 223);
+    color:white;
+    text-align:  center;
+}
+td{
+    border-radius:3px;
+    border-color: rgb(71, 174, 214);
+    font-size:12px; 
+    font-family:'Times New Roman', Times, serif¨;
+    text-align: center;
+}
